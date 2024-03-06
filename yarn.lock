@@ -6088,10 +6088,10 @@ vue-devtools-stub@^0.1.0:
   resolved "https://registry.yarnpkg.com/vue-devtools-stub/-/vue-devtools-stub-0.1.0.tgz#a65b9485edecd4273cedcb8102c739b83add2c81"
   integrity sha512-RutnB7X8c5hjq39NceArgXg28WZtZpGc3+J16ljMiYnFhKvd8hITxSWQSQ5bvldxMDU6gG5mkxl1MTQLXckVSQ==
 
-vue-nouns-blockie@^1.0.14:
-  version "1.0.14"
-  resolved "https://registry.yarnpkg.com/vue-nouns-blockie/-/vue-nouns-blockie-1.0.14.tgz#5d55a8ba5ccb3e21e1cb57ebb8930fd30a5b99c4"
-  integrity sha512-7qzdxEAoNzN5GvR1Xpipr0mf4bg2EUWUMNwDWl/8uAbrgDbl4B5bBN59KLi218bzcnGF3wfwCHW3cdMfoJLrUA==
+vue-nouns-blockie@^1.0.17:
+  version "1.0.17"
+  resolved "https://registry.yarnpkg.com/vue-nouns-blockie/-/vue-nouns-blockie-1.0.17.tgz#d97c84c88f8f11e317e1bf5a1e14a0f0ecf219bd"
+  integrity sha512-TzDkS/UoWySUq9iJZlGmGwSn/qFNS9llywGl7/3pKb2+Jg9uaS7fHFIlqMcOBEDPkQ6lBAZAw++Z5LPkYfZgaw==
   dependencies:
     "@nouns/assets" "^0.5.0"
     "@nouns/sdk" "^0.4.0"

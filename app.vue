@@ -7,8 +7,10 @@
 </template>
 
 <script>
-import { NounsBlockie } from 'vue-nouns-blockie';
+import Vue from 'vue';
 
+import { NounsBlockie } from 'vue-nouns-blockie';
+console.log("Vue ", Vue)
 export default {
   components: {
     NounsBlockie
